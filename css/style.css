@@ -727,7 +727,11 @@ transition: background-color var(--function-trasition);
 }
 
 .modal-form-field {
-	margin-bottom: 26px;
+	margin-bottom: 8px;
+}
+
+.modal-form-field-comment {
+margin-bottom: 16px;
 }
 
 .modal-form-input-desk {
